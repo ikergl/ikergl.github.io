@@ -1,4 +1,4 @@
-Web de pensamientos y chorradas publicadas por Iker García Lafuente.
+Web con mis pensamientos y chorradas.
 
 # Post 1
 dasdasdasdasdasdas
