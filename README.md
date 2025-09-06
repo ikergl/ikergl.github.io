@@ -1,5 +1,3 @@
-[[_TOC_]]
-
 Web de pensamientos y chorradas publicadas por Iker García Lafuente.
 
 # Post 1
