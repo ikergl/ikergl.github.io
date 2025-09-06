@@ -1,3 +1,11 @@
-amnexiii public code
+# miscelaniker
+_Web de pensamientos y chorradas publicadas por Iker García Lafuente.
+_GitHubPages_
 
-/docs: blog con GitHubPages para mis chorradas :)
+* toc
+* 
+## Post 1
+
+## Post 2
+
+dasda
