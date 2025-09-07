@@ -6,6 +6,7 @@ Y, aún así, seguiremos teniendo un pequeeeeeño inconveniente: la humanidad de
 
 Entonces, teniendo en cuenta todo eso... ¿perdurará este texto y lo leerá alguien cerca del fin de los tiempos? Mmmmh... pues no, ni así. Es altamente improbable. Por tanto, todas las reflexiones anteriores son basura; se siente. ¿Qué nos queda? Sólo abrazar el cortoplacismo. Vamos, que espero que algo te sirva **a ti**, que -mira qué suerte- aún sigues vivo. Tras esta intro con patético espíritu de _crisis de los 46_..., ¡a disfrutar! 💃🏼
 
+| Iker García Lafuente, 7 sep 2025.
 
 # Post 1
 dasdasdasdasdasdas
