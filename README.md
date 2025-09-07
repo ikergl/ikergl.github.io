@@ -1,4 +1,4 @@
-Todos moriremos. ¿No es muy triste que tus pensamientos se borren cuando palmes? Y los míos... 😅 Escribamos, pues. Todos.
+Todos moriremos. ¿No es muy triste que tus pensamientos se borren cuando palmes? Y los míos 😅... Escribamos, pues. Todos.
 
 Pero hay un problema más gordo: aunque lo hagamos, ¿perdurará nuestro conocimiento colectivo _para siempre_? Como no tenemos mentalidad colmena insectora a modo de almacenamiento compartido, emulémosla todo lo que podamos con internet. Lo que nos lleva a la pregunta: _¿concretamente, en qué website?_. Por ejemplo, nadie garantiza que GitHub Pages, que sustenta este contenido, siga funcionando después de que yo "cierre sesión". Así que, aunque sea morralla, lo copiaré a [https://web.archive.org](https://web.archive.org){:target="_blank"} y [https://archive.today](https://archive.today){:target="_blank"}, cuyo propósito es perdurar. No será eterno, pero alargará notablemente la vida del texto tras la mía.
 
