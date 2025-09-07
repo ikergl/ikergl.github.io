@@ -1,4 +1,4 @@
-Todos moriremos. ¿No es muy triste que nuestros pensamientos se borren cuando palmamos? 😅 Escribamos, pues.
+Todos moriremos. ¿No es muy triste que tus pensamientos se borren cuando palmes? Y los míos... 😅 Escribamos, pues.
 
 Pero hay un problema más gordo: ¿por qué no puede perdurar nuestro conocimiento para siempre? Como no tenemos a mano la mente colmena de los insectores a modo de almacenamiento compartido, emularemos lo que podamos con internet. Ahora bien: nadie garantiza que GitHub Pages, que sustenta este contenido, siga funcionando después de que yo cierre sesión. Así que, aunque sea morralla, lo copiaré a [https://web.archive.org](https://web.archive.org){:target="_blank"} y [https://archive.today](https://archive.today){:target="_blank"}. No será eterno, pero algo alargará su vida tras la mía.
 
