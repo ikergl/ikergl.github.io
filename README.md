@@ -11,6 +11,8 @@ Entonces, teniendo en cuenta todo eso... ¿perdurará este texto y lo leerá alg
 **Índice**
 - **TI**
   - La obsolescencia nos come
-  - ¡Pintas de manera complicada ese proceso!
+  - ¡Simplifica pintar procesos!
 - **Frikadas**
   - D&D spells
+- **LOL**
+  - Pan rallado
