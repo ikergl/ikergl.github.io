@@ -8,6 +8,9 @@ Entonces, teniendo en cuenta todo eso... ¿perdurará este texto y lo leerá alg
 
 | Iker García Lafuente, 7 sep 2025.
 
+---
+
+### Índice
 
 - **TI**
   - La obsolescencia nos come
