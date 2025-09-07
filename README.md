@@ -6,7 +6,7 @@ Y, aún así, seguimos teniendo un pequeño inconveniente. Básicamente, la huma
 
 Teniendo en cuenta todo eso... ¿perdurará este texto y lo leerá alguien cerca del fin de los tiempos? Pueeeeees... ¡ni de coña! Así que todas las reflexiones anteriores son basura; se siente. ¿Qué nos queda, entonces? Sólo abrazar el cortoplacismo. O te sirve de algo **a ti**, que -mira qué suerte- aún sigues vivo, o todo esto ha sido matar el tiempo.
 
-Tras esta intro prescindible que irradia un patético espíritu de _crisis de los 46_..., ¡a disfrutar! 💃🏼
+Tras irradiar este patético espíritu de _crisis de los 46_..., te diré que ¡a disfrutar! 💃🏼
 
 | Iker García Lafuente, 7 sep 2025.
 
