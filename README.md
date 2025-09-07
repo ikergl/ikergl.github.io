@@ -8,13 +8,9 @@ Entonces, teniendo en cuenta todo eso... ¿perdurará este texto y lo leerá alg
 
 | Iker García Lafuente, 7 sep 2025.
 
-# Post 1
-dasdasdasdasdasdas
-
-## La importancia de...
-dasdasfgasfas
-asd
-asfgdasfsa
-
-# Post 2
-dasda
+## Índice
+_Most recent up._
+### TI
+#### Obsolescencia
+### Frikadas
+#### D&D spells
