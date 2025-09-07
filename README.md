@@ -4,7 +4,7 @@ Pero hay un problema más gordo: ¿por qué no puede perdurar nuestro conocimien
 
 Aún así, seguimos teniendo un pequeño inconveniente: la humanidad desaparecerá. Por desastres cósmicos, autodestrucción o colapso ambiental; da igual. El caso es que, eventualmente, no habrá nadie que lo lea. O, al menos, ningún Homo Sapiens. Si el desastre que elimine a éste no se lleva consigo _al interné_, lo mismo una inteligencia superior descifra nuestros escritos antes de que el hardware se oxide del todo. Igual hasta deducen de nuestra desaparición la respuesta al sentido de la vida, el universo y todo lo demás (o la pregunta, si es que la respuesta era 42, después de todo 😊).
 
-Entonces... ¿alguien leerá todo esto cerca del fin de los tiempos? Mmmmh, improbable. Así que mejor no liarse y abrazar el cortoplacismo: a ver si te vale algo a ti. Que, por lo menos, sigues vivo. Cabronazo.
+Entonces... ¿alguien leerá todo esto cerca del fin de los tiempos? Mmmmh, improbable. Así que mejor no liarse y abrazar el cortoplacismo. Vamos, que espero que algo te sirva a ti, que aún sigues vivo. ¡A disfrutar! 💃🏼
 
 
 # Post 1
