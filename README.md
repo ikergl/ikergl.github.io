@@ -10,7 +10,7 @@ Entonces, teniendo en cuenta todo eso... ¿perdurará este texto y lo leerá alg
 
 **Índice**
 - **TI**
-  - Obsolescencia
-  - Procesos declarativos
+  - La obsolescencia nos come
+  - Simplifica cómo pintas ese proceso
 - **Frikadas**
   - D&D spells
