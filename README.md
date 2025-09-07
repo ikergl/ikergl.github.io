@@ -15,4 +15,4 @@ Entonces, teniendo en cuenta todo eso... ¿perdurará este texto y lo leerá alg
 - **Frikadas**
   - D&D spells
 - **LOL**
-  - Pan rallado
+  - [Pan rallado](https://ikergl.github.io/pan_rallado.html)
