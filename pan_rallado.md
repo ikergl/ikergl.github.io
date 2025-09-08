@@ -2,4 +2,5 @@
 
 Siento el chiste malo 😅
 
-_Oct 2015 (publicado aquí el 7 sep 2025)_
+---
+Oct 2015 (publicado aquí el 7 sep 2025).
