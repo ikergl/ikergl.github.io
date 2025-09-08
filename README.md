@@ -18,6 +18,6 @@ Tras irradiar este patético espíritu de _crisis de los 46_... que disfrutes �
   - La obsolescencia nos come
   - Cómo pintar procesos
 - **Frikadas**
-  - D&D spells
+  - [D&D spells](https://ikergl.github.io/d&d_spells.html)
 - **LOL**
   - [Pan rallado](https://ikergl.github.io/pan_rallado.html)
