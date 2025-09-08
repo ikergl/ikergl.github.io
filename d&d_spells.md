@@ -1,6 +1,7 @@
 ¡Mago! 🧙‍♂️
 
 ¿Has elegido a ojo tus conjuros porque la lista de D&D es demasiado larga y no tuviste tiempo de leerla e interiorizarla?
+
 ¡Claaaaro! ¡Porque no tenías el superexcel de tito Iker!
 
 | [Descargar d&d_spells.xlsx](d&d_spells.xlsx)
