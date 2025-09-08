@@ -8,7 +8,7 @@ Teniendo en cuenta todo eso... ¿perdurará este texto y lo leerá alguien cerca
 
 Tras irradiar este patético espíritu de _crisis de los 46_... que disfrutes ☺️💃🏼
 
-| Iker García Lafuente, 7 sep 2025.
+| Iker García Lafuente, 6 sep 2025.
 
 ---
 
