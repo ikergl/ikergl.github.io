@@ -1,5 +1,11 @@
-¿Has elegido a ojo los conjuros de tu personaje de D&D porque la lista es demasiado larga?
-¡Claro!
+¡Mago! 🧙‍♂️ ¿Has elegido a ojo tus conjuros porque la lista de D&D es demasiado larga y no tuviste tiempo de leerla e interiorizarla?
+¡Claaaaro! ¡Porque no tenías el superexcel de tito Iker!
 
+Anda anda, hazlo bien, como si fueras tan estudioso como tu PJ 📚.
+Filtra aquí, filtra allá, añade tus columnas de comentarios y preferidos... Y hazte un buen libro de conjuros.
+De nada 😊
 
- 
+P.D.: Ambos sabemos que, con ércel o sin él, seguirás pillando Fireball 🤣... no pasa nada, semos persianas.
+P.D.2: Si juegas con una clase diferente a Wizard, es decir con una clase INFERIOR... también te vale el excel. Precisamente, lo que añadí yo al original fue qué clase puede usar qué conjuros.
+
+| 2022 (publicado aquí el 8 sep 2025).
