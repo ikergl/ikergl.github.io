@@ -6,7 +6,7 @@ Y, aún así, seguimos teniendo un pequeño inconveniente. Básicamente, que la 
 
 Teniendo en cuenta todo eso... ¿perdurará este texto y lo leerá alguien cerca del fin de los tiempos? Pueeeeees 🥁🥁🥁... ¡NO! Así que todas las reflexiones anteriores son basura: se siente. ¿Qué nos queda, entonces? Sólo abrazar el cortoplacismo. O te sirve de algo **a ti**, que -mira qué suerte- aún sigues vivo, o todo esto ha sido matar el tiempo.
 
-Tras irradiar este patético espíritu de _crisis de los 46_... que disfrutes 😎💃🏼
+Tras irradiar este patético espíritu de crisis de la mediana edad, sólo resta decirte... ¡que disfrutes! 😎💃🏼
 
 | Iker García Lafuente, 6 sep 2025.
 
