@@ -1,7 +1,5 @@
 ⬆️ _Haz click en "ikergl" para volver a la página de inicio._
 
-___
-
 ¡Mago! 🧙‍♂️
 
 ¿Has elegido a ojo tus conjuros porque la lista de D&D es demasiado larga y no tuviste tiempo de leerla e interiorizarla?
