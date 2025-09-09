@@ -1,3 +1,5 @@
+⬆️ _Haz click arriba para volver a la página de inicio._
+
 ¡Mago! 🧙‍♂️
 
 ¿Has elegido a ojo tus conjuros porque la lista de D&D es demasiado larga y no tuviste tiempo de leerla e interiorizarla?
