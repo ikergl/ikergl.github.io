@@ -1,7 +1,5 @@
 [¡Hola!](https://ikergl.github.io/hola.html)
 
-___
-
 - **TI**
   - La obsolescencia nos come [TBA]
   - De tareas a resultados: simplificando pintar procesos [TBA]
