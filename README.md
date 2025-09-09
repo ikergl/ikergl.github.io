@@ -1,7 +1,7 @@
 [¡Hola!](https://ikergl.github.io/hola.html)
 - **TI**
-  - La obsolescencia nos come
-  - Cómo pintar procesos
+  - La obsolescencia nos come [TBA]
+  - De tareas a resultados: simplificando pintar procesos [TBA]
 - **Frikadas**
   - [D&D spells](https://ikergl.github.io/d&d_spells.html)
 - **LOL**
