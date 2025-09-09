@@ -1,6 +1,4 @@
-⬆️ _Haz click en "ikergl" para volver a la página de inicio._
-
-___
+⬆️ _Haz click en "ikergl" para volver a la página de inicio._  
 
 ![pan_rallado.jpg](pan_rallado.jpg)
 
