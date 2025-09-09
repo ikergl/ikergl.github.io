@@ -1,4 +1,4 @@
-⬆️ _Haz click en "ikergl" para volver a la página de inicio._ 
+⬆️ _Haz click en "ikergl" para volver a la página de inicio._ <br><br>
 
 Todos moriremos. ¿No es muy triste que tus pensamientos se borren cuando palmes? Y los míos 😅... Escribamos, pues. Todos. Como no tenemos una [mente colmena](https://web.archive.org/web/20250908071806/https://enderverse.fandom.com/wiki/Formics) que actúe como almacenamiento compartido, emulemos el concepto con internet.
 
@@ -9,6 +9,8 @@ Y, aún así, seguimos teniendo un pequeño inconveniente. Básicamente, que la 
 Teniendo en cuenta todo eso... ¿perdurará este texto y lo leerá alguien cerca del fin de los tiempos? Pueeeeees 🥁🥁🥁... ¡NO! Por tanto, todas las reflexiones anteriores son basura: se siente. ¿Qué nos queda, entonces? Sólo abrazar el cortoplacismo. O te sirve de algo **a ti**, que -mira qué suerte- aún sigues vivo, o todo esto ha sido matar el tiempo.
 
 Tras irradiar este patético espíritu de crisis de la mediana edad, sólo resta decirte... ¡que disfrutes! 😎💃🏼
+
+<br>
 
 ___
 Iker García Lafuente, 6 sep 2025.
