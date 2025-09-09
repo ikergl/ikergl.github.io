@@ -1,6 +1,4 @@
-⬆️ _Haz click en "ikergl" para volver a la página de inicio._
-
-___
+⬆️ _Haz click en "ikergl" para volver a la página de inicio._ 
 
 Todos moriremos. ¿No es muy triste que tus pensamientos se borren cuando palmes? Y los míos 😅... Escribamos, pues. Todos. Como no tenemos una [mente colmena](https://web.archive.org/web/20250908071806/https://enderverse.fandom.com/wiki/Formics) que actúe como almacenamiento compartido, emulemos el concepto con internet.
 
