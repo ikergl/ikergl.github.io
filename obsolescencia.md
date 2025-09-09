@@ -1,4 +1,6 @@
-⬆️ _Haz click arriba para volver a la página de inicio._
+⬆️ _Haz click en "ikergl" para volver a la página de inicio._ <br><br>
 
----
-Iker García Lafuente, x
+<br>
+
+___
+Iker García Lafuente, x yyy 2025).
