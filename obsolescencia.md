@@ -3,4 +3,4 @@
 <br>
 
 ___
-Iker García Lafuente, x yyy 2025).
+Iker García Lafuente, xx yyy 2025.
