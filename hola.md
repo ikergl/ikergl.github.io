@@ -10,4 +10,5 @@ Teniendo en cuenta todo eso... ¿perdurará este texto y lo leerá alguien cerca
 
 Tras irradiar este patético espíritu de crisis de la mediana edad, sólo resta decirte... ¡que disfrutes! 😎💃🏼
 
-| Iker García Lafuente, 6 sep 2025.
+---
+Iker García Lafuente, 6 sep 2025.
