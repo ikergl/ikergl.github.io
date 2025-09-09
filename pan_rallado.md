@@ -1,8 +1,10 @@
-⬆️ _Haz click en "ikergl" para volver a la página de inicio._  
+⬆️ _Haz click en "ikergl" para volver a la página de inicio._ <br><br>
 
 ![pan_rallado.jpg](pan_rallado.jpg)
 
 Siento el chiste malo 😅
 
+<br>
+
 ___
-Iker García Lafuente, Oct 2015 (publicado aquí el 7 sep 2025).
+Iker García Lafuente, 2022 (publicado aquí el 7 sep 2025).
