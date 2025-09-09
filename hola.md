@@ -1,4 +1,4 @@
-⬆️ _Haz click arriba para volver a la página de inicio._
+⬆️ _Haz click en "ikergl" para volver a la página de inicio._
 
 ___
 
