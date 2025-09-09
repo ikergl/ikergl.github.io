@@ -1,6 +1,5 @@
 ⬆️ _Haz click arriba para volver a la página de inicio._
-
----
+___
 
 ¡Mago! 🧙‍♂️
 
@@ -18,6 +17,5 @@ P.D.: Ambos sabemos que, con ércel o sin él, seguirás pillando Fireball 🤣.
 
 P.D.2: Si juegas con una clase diferente a Wizard, es decir con una clase **inferior** 😎... también te vale el excel. Precisamente, lo que añadí yo al original fue qué clase puede usar qué conjuros.
 
----
-
+___
 Iker García Lafuente, 2022 (publicado aquí el 8 sep 2025).
