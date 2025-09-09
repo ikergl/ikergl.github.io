@@ -1,6 +1,6 @@
+[¡Hola!](https://ikergl.github.io/hola.html)
 ___
 
-[¡Hola!](https://ikergl.github.io/hola.html)
 - **TI**
   - La obsolescencia nos come [TBA]
   - De tareas a resultados: simplificando pintar procesos [TBA]
