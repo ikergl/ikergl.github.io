@@ -1,6 +1,5 @@
 ⬆️ _Haz click arriba para volver a la página de inicio._
-
----
+___
 
 Todos moriremos. ¿No es muy triste que tus pensamientos se borren cuando palmes? Y los míos 😅... Escribamos, pues. Todos. Como no tenemos una [mente colmena](https://web.archive.org/web/20250908071806/https://enderverse.fandom.com/wiki/Formics) que actúe como almacenamiento compartido, emulemos el concepto con internet.
 
@@ -12,5 +11,5 @@ Teniendo en cuenta todo eso... ¿perdurará este texto y lo leerá alguien cerca
 
 Tras irradiar este patético espíritu de crisis de la mediana edad, sólo resta decirte... ¡que disfrutes! 😎💃🏼
 
----
+___
 Iker García Lafuente, 6 sep 2025.
