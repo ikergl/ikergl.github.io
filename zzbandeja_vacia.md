@@ -5,4 +5,4 @@ xxxxxxx
 <br>
 
 ___
-Iker García Lafuente, 2022 (publicado aquí el 7 sep 2025).
+Iker García Lafuente, xx yyy 2025

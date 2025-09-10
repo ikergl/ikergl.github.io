@@ -19,4 +19,4 @@ P.D.2: Si juegas con una clase diferente a Wizard, es decir con una clase **infe
 <br>
 
 ___
-Iker García Lafuente, 2022 (publicado aquí el 8 sep 2025).
+Iker García Lafuente, 2022 (publicado aquí el 8 sep 2025)
