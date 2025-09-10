@@ -1,6 +1,6 @@
 ⬆️ _Haz click en "ikergl" para volver a la página de inicio._ <br><br>
 
-#Pan rallado
+# Pan rallado
 
 ![pan_rallado.jpg](pan_rallado.jpg)
 
