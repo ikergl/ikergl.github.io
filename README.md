@@ -7,3 +7,5 @@
 
 ___
 Iker García Lafuente
+
+_Este website se creó el 6 de septiembre de 2025._

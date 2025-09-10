@@ -9,4 +9,4 @@ Siento el chiste malo 😅
 <br>
 
 ___
-Iker García Lafuente, 2022 (publicado aquí el 7 sep 2025)
+Iker García Lafuente, 7 sep 2025
