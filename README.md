@@ -1,8 +1,5 @@
 [¡Hola!](https://ikergl.github.io/hola.html)
 
-- **TI**
-  - La obsolescencia nos come [TBA]
-  - De tareas a resultados: simplificando pintar procesos [TBA]
 - **Excelman**
   - [D&D spells](https://ikergl.github.io/d&d_spells.html)
 - **LOL**
