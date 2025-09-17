@@ -41,7 +41,7 @@ Lo más probable es que ya la conozcas, ¡sólo úsala! 🙏
 
 Si adjuntas el fichero en un chat (no canal) de Teams esperando que yo me lo descargue, estás cometiendo la misma herejía que enviándolo por mail. ¡Ojo, que te quemas!
 
-Si, por el contrario, sabes que esa acción guarda el fichero en tu carpeta OneDrive "Microsoft Teams Chat Files" o "Archivos de chat de Microsoft Teams" y pretendes que colaboremos sobre esa única copia... Te has librado de la hoguera. Ahora bien, todos tus compartidos mediante este mecanismo están en la misma carpeta, sin orden alguno... No sé cómo te apañas con esa zorrera de OneDrive 😅. Te has librado de la hoguera, pero cuidado, que te cortan las manos 🪓😈
+Si, por el contrario, sabes que esa acción guarda el fichero en tu carpeta OneDrive "Microsoft Teams Chat Files" o "Archivos de chat de Microsoft Teams" y pretendes que colaboremos sobre esa única copia... Te has librado de la hoguera. Ahora bien, todos tus compartidos mediante este mecanismo están en la misma carpeta, sin orden alguno... No sé cómo te apañas con esa zorrera de OneDrive 😅. Te has librado de la hoguera..., ¡pero cuidado, que te cortan las manos! 🪓😈
 
 ### P. D. 2: Ruego a Microchóf
 
