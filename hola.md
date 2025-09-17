@@ -12,7 +12,7 @@ Teniendo en cuenta todo eso... ¿perdurará este texto y lo leerá alguien cerca
 
 ¿Qué nos queda, entonces? Sólo abrazar el cortoplacismo. O te sirve de algo **a ti**, que -mira qué suerte- aún sigues vivo, o todo esto ha sido matar el tiempo.
 
-Tras irradiar este espíritu de crisis de la mediana edad tan patético, sólo resta decirte... ¡que disfrutes! 😎💃🏼
+Tras irradiar esta patética crisis de la mediana edad, sólo resta decirte... ¡que disfrutes! 😎💃🏼
 
 <br>
 
