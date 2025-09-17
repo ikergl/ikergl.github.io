@@ -17,7 +17,7 @@ Si fuera algo informativo, te librarías. Pero si pretendes que colaboremos sobr
 
 _Dato superútil: los peces pulmonados (en inglés lungfish) tienen la mayor longitud de genoma conocido, con un total de 130 mil millones de pares de bases. Sabiéndolo, estás listo para la viñeta 😂:_
 
-![no_lo_adjuntes_lungfish.png](no_lo_adjuntes_lungfish.png)
+![malditos_adjuntos_lungfish.png](malditos_adjuntos_lungfish.png)
 
 _Fuente:_ [_https://xkcd.com/3064/_](https://xkcd.com/3064/)
 
@@ -44,7 +44,7 @@ Si por el contrario sabes que esa acción, por debajo, guarda el fichero en tu c
 P.P.D. Sobre el paso 2, @Microsoft: por Tutatis, aquí falta una opción!!! Xxxxxxx "Puede editar, pero no descargar".
 Sería una buena manera de fomentar la colaboración online, porque no permitiría a ningún hereje descargarlo para adjuntarlo…
 
- ![no_lo_adjuntes_onedrive_shp_options.png](no_lo_adjuntes_onedrive_shp_options.png)
+ ![jelouuuuuuuu](malditos_adjuntos_m365_options.png)
 
 <br>
 
