@@ -34,9 +34,7 @@ Lo más probable es que ya la conozcas, ¡sólo úsala! 🙏
   - En Google Workspace: convierte tu .pptx/.xlsx/.docx a .gslides/.gsheet/.gdoc, respectivamente.
 - Paso 2: **comparte el link** al fichero por el canal que quieras: mail, chat, señales de humo 💨... Con permisos de lectura o edición, según se necesite.
 
-¡Así funcionaremos muuuucho mejor!
-
-Gracias 😊
+¡Ahora sí, muuuucho mejor! Gracias 😊
 
 
 ### P. D. 1: sobre adjuntar ficheros en chats de Teams
@@ -53,7 +51,7 @@ Sobre el paso 2: en Microsoft 365, ¡aquí falta una opción, por Tutatis!
 
 Yo añadiría **"Puede editar, pero no descargar"**. Sería una manera estupenda de impedir herejías...
 
-_P. D. 2': Encontré [esta solicitud a Microsoft](https://feedbackportal.microsoft.com/feedback/idea/d8d81e9f-6188-f011-8151-6045bdba91e3), que es lo mismo (aunque yo no lo limitaría a in-browser) y le di mi voto. Si quieres, puedes sumar el tuyo._
+_P. D. 2': Encontré [esta solicitud a Microsoft](https://feedbackportal.microsoft.com/feedback/idea/d8d81e9f-6188-f011-8151-6045bdba91e3) por otra persona. Es lo mismo que propongo (aunque yo no lo limitaría a in-browser) y le di mi voto. Si quieres, puedes sumar el tuyo._
 
 
 
