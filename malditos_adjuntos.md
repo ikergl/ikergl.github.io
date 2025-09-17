@@ -40,11 +40,14 @@ Si por el contrario sabes que esa acción, por debajo, guarda el fichero en tu c
 
 ### P. D. 2: Ruego a Microchof
 
-
-P.P.D. Sobre el paso 2, @Microsoft: por Tutatis, aquí falta una opción!!! Xxxxxxx "Puede editar, pero no descargar".
-Sería una buena manera de fomentar la colaboración online, porque no permitiría a ningún hereje descargarlo para adjuntarlo…
+Sobre el paso 2, @Microsoft: ¡aquí falta una opción, por Tutatis!
+Por favor, añadid "Puede editar, pero no descargar".
+Sería una buena manera de fomentar la colaboración online, porque impediría herejías...
 
  ![jelouuuuuuuu](malditos_adjuntos_m365_options.png)
+
+ https://feedbackportal.microsoft.com/feedback/idea/d8d81e9f-6188-f011-8151-6045bdba91e3
+ 
 
 <br>
 
