@@ -25,7 +25,7 @@ _Fuente:_ [_https://xkcd.com/3064/_](https://xkcd.com/3064/)
 
 ## La solución
 
-Lo más probable es que que la conozcas, ¡sólo úsala! 🙏
+Lo más probable es que ya la conozcas, ¡sólo úsala! 🙏
 - Paso 0 (pesa cero porque es "no hacer"): **por Tutatis, NO pongas número de versión ni fecha en el nombre del fichero**. En primer lugar, sería redundante: tanto el versionado como la fecha de última modificación los gestiona automáticamente la nube por nosotros. Mira qué maja. En segundo lugar: si lo pones, en poco tiempo será un dato erróneo por error humano. Keep it simple!
 - Paso 1: **súbelo a internet**.
   - En Microsoft 365: aloja el fichero .pptx/.xlsx/.docx en tu OneDrive o en un SharePoint (asociado o no a un Teams).
