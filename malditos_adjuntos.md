@@ -9,7 +9,7 @@ Te podrían quemar en una hoguera por enviarme ese PowerPoint, Excel o Word como
 Si fuera algo informativo, te librarías. Pero si pretendes que colaboremos sobre ese contenido... mal empezamos, porque ese adjunto está maldito. Esto es lo que pasará:
 - Perderemos tiempo con idas y venidas adjuntando evoluciones del fichero en mails o chats.
 - Tendremos dudas sobre cuál es la última versión. 
-- Seremos más lentos porque esperará uno al otro para avanzar. O peor: cruzaremos ficheros y ninguno tendrá el último contenido. 
+- Seremos más lentos porque nos esperaremos uno al otro para avanzar. O peor: cruzaremos ficheros y ninguno tendrá el último contenido. 
 - Y sobre todo, ¡nos volveremos locos poniendo versiones y fechas en el nombre del fichero! 😭
 
 <br>
