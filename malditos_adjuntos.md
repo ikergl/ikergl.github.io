@@ -1,12 +1,14 @@
 ⬆️ _Haz click en "ikergl" para volver a la página de inicio._ <br><br>
 
-# Malditos adjuntos…
+# Malditos adjuntos...
 
-## …¡adjuntos malditos!
+## ...¡adjuntos malditos!
 
-Te podrían quemar en una hoguera por enviarme ese PowerPoint, Excel o Word como adjunto en un mail. ¡Hereje!
+Te podrían quemar en una hoguera por enviarme ese PowerPoint, Excel o Word como adjunto en un mail. ¡Hereje! 🔥
 
-Si fuera algo informativo, te librarías. Pero si pretendes que colaboremos sobre ese contenido... mal empezamos, porque ese adjunto está maldito. Esto es lo que pasará:
+Si es algo informativo, sólo te libras en el poco probable caso de que el fichero sea un contenido "definitivo, 100% cerrado, para siempre jamás". Ese es un estado poco habitual en esta vida...
+
+Y si pretendes que colaboremos sobre ese contenido (que ambos lo editemos)... mal empezamos, porque ese adjunto está maldito. Esto es lo que pasará:
 - Perderemos tiempo con idas y venidas adjuntando evoluciones del fichero en mails o chats.
 - Tendremos dudas sobre cuál es la última versión. 
 - Seremos más lentos porque nos esperaremos uno al otro para avanzar. O peor: cruzaremos ficheros y ninguno tendrá el último contenido. 
@@ -30,17 +32,18 @@ Lo más probable es que ya la conozcas, ¡sólo úsala! 🙏
 - Paso 1: **súbelo a internet**.
   - En Microsoft 365: aloja el fichero .pptx/.xlsx/.docx en tu OneDrive o en un SharePoint (asociado o no a un Teams).
   - En Google Workspace: convierte tu .pptx/.xlsx/.docx a .gslides/.gsheet/.gdoc, respectivamente.
-- Paso 2: **comparte el link** al fichero por el canal que quieras; mail, chat, señales de humo 💨... Con permisos de edición o lectura, según el caso.
+- Paso 2: **comparte el link** al fichero por el canal que quieras: mail, chat, señales de humo 💨... Con permisos de lectura o edición, según se necesite.
 
-¡Ya podemos trabajar sobre el fichero simultáneamente... guau!
+¡Así funcionaremos muuuucho mejor!
 
 Gracias 😊
 
+
 ### P. D. 1: sobre adjuntar ficheros en chats de Teams
 
-Si adjuntas el fichero en un chat (no canal) de Teams esperando que yo me lo descargue, estás cometiendo la misma herejía que enviarlo por mail. ¡Ojo, que te quemas!
+Si adjuntas el fichero en un chat (no canal) de Teams esperando que yo me lo descargue, estás cometiendo la misma herejía que enviándolo por mail. ¡Ojo, que te quemas!
 
-Si, por el contrario, sabes que esa acción guarda el fichero en tu carpeta  OneDrive "Microsoft Teams Chat Files" o "Archivos de chat de Microsoft Teams" y pretendes que colaboremos sobre esa única copia... Te has librado de la hoguera. Ahora bien, todos tus compartidos mediante este mecanismo están en la misma carpeta, sin orden alguno... No sé cómo te apañas con esa zorrera de OneDrive 😅. Te has librado de la hoguera, pero ¡cuidado, que te cortan las manos! 🪓
+Si, por el contrario, sabes que esa acción guarda el fichero en tu carpeta OneDrive "Microsoft Teams Chat Files" o "Archivos de chat de Microsoft Teams" y pretendes que colaboremos sobre esa única copia... Te has librado de la hoguera. Ahora bien, todos tus compartidos mediante este mecanismo están en la misma carpeta, sin orden alguno... No sé cómo te apañas con esa zorrera de OneDrive 😅. Te has librado de la hoguera, pero cuidado, que te cortan las manos 🪓😈
 
 ### P. D. 2: Ruego a Microchóf
 
