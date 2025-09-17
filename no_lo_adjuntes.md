@@ -18,11 +18,18 @@ Esto es lo que pasará:
 
 <br>
 
-| Dato friki: los peces pulmonados (en inglés lungfish) tienen la mayor longitud de genoma conocido, con un total de 130 mil millones de pares de base. Sabiéndolo, estás listo para la viñeta 😂:
+_Dato friki: los peces pulmonados (en inglés lungfish) tienen la mayor longitud de genoma conocido, con un total de 130 mil millones de pares de base. Sabiéndolo, estás listo para la viñeta 😂:_
+
+![no_lo_adjuntes_lungfish.png](no_lo_adjuntes_lungfish.png)
 
 _Fuente:_ [_https://xkcd.com/3064/_](https://xkcd.com/3064/)
 
 
+## La solución
+
+¡Lo más probable es que la conozcas!
+- En suite de Google: convierte tu .xlsx a .googlesheet
+- En Microsoft 365:
 
 Ya conoces la solución: pon el fichero en tu OneDrive o en un SharePoint (asociado o no a un Teams). En cualquiera de los dos, podemos compartir sólo un link y trabajar sobre ese fichero simultáneamente.
 Y NO pongas número de versión ni fecha en el nombre del fichero.
@@ -39,7 +46,7 @@ P.D. Si adjuntas el fichero en un chat (no canal) en Teams esperando que me lo d
 P.D.2 @Microsoft: por Tutatis, aquí falta una opción!!! Xxxxxxx "Puede editar, pero no descargar".
 Sería una buena manera de fomentar la colaboración online, porque no permitiría a ningún hereje descargarlo para adjuntarlo…
 
- 
+ ![no_lo_adjuntes_onedrive_shp_options.png](no_lo_adjuntes_onedrive_shp_options.png)
 
 <br>
 
