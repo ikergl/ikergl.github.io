@@ -6,7 +6,7 @@ Te podrían quemar en una hoguera por enviarme ese PowerPoint, Excel o Word como
 
 Hay dos casos:
 
-Si es algo informativo, sólo te libras en caso de que el fichero tenga un contenido "definitivo, 100% cerrado, para siempre jamás". Ese es un estado poco habitual en esta vida...
+Si es algo informativo, sólo te libras en caso de que el fichero tenga un contenido "definitivo, 100% cerrado, para siempre jamás". Un estado poco habitual en esta vida...
 
 Si pretendes que colaboremos sobre ese contenido, es decir, que ambos lo editemos... mal empezamos, porque ese adjunto está maldito. Esto es lo que pasará:
 - Perderemos tiempo con idas y venidas adjuntando evoluciones del fichero en mails o chats.
