@@ -8,7 +8,7 @@ Hay dos casos:
 
 Si es algo informativo, sólo te libras en caso de que el fichero tenga un contenido "definitivo, 100% cerrado, para siempre jamás". Ese es un estado poco habitual en esta vida...
 
-Si pretendes que colaboremos sobre ese contenido (que ambos lo editemos)... mal empezamos, porque ese adjunto está maldito. Esto es lo que pasará:
+Si pretendes que colaboremos sobre ese contenido, es decir, que ambos lo editemos... mal empezamos, porque ese adjunto está maldito. Esto es lo que pasará:
 - Perderemos tiempo con idas y venidas adjuntando evoluciones del fichero en mails o chats.
 - Tendremos dudas sobre cuál es la última versión. 
 - Seremos más lentos porque nos esperaremos uno al otro para avanzar. O peor: cruzaremos ficheros y ninguno tendrá el último contenido. 
