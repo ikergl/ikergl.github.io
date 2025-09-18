@@ -1,6 +1,6 @@
 ⬆️ _Haz click en "ikergl" para volver a la página de inicio._ <br><br>
 
-![](pan_rallado.jpg)
+![](pan_rallado.png)
 
 Siento el chiste malo 😅
 
