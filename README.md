@@ -7,8 +7,8 @@
   - [Malditos adjuntos...](https://ikergl.github.io/malditos_adjuntos.html)
   - [No Hello](https://ikergl.github.io/no_hello.html)
 - **LOL** (o no)
-  - [Eres más x que y](https://ikergl.github.io/eres_más_x_que_y.html)
   - [Pan rallado](https://ikergl.github.io/pan_rallado.html)
+  - [Eres más x que y](https://ikergl.github.io/eres_más_x_que_y.html)
 - **Otros**
   - [D&D spells](https://ikergl.github.io/d&d_spells.html)
 

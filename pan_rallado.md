@@ -2,7 +2,7 @@
 
 ![](pan_rallado.png)
 
-Siento el chiste malo 😅
+😅
 
 <br>
 
