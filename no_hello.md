@@ -2,7 +2,7 @@
 
 # No Hello
 
-¡Esto no es mío, pero lo defiendo a muerte!:
+Esto no es mío, pero ¡lo defiendo a muerte!
 
 [https://nohello.net/es/](https://nohello.net/es/)
 
