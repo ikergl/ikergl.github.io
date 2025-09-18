@@ -14,7 +14,7 @@ Y si pretendes que colaboremos sobre ese contenido (que ambos lo editemos)... ma
 
 <br>
 
-_Dato superútil: los peces pulmonados (en inglés lungfish) tienen la mayor longitud de genoma conocido, con un total de 130 mil millones de pares de bases. Sabiéndolo, estás listo para la viñeta 😂:_
+_Dato superútil: el pez pulmonado (lungfish) tiene la mayor longitud de genoma conocido, con un total de 130 mil millones de pares de bases. Sabiéndolo, estás listo para la viñeta 😂:_
 
 ![](malditos_adjuntos_lungfish.png)
 
