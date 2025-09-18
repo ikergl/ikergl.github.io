@@ -1,6 +1,6 @@
 ⬆️ _Haz click en "ikergl" para volver a la página de inicio._ <br><br>
 
-# Malditos adjuntos...
+# Malditos adjuntos... ¡adjuntos malditos!
 
 [Volver al artículo principal](https://ikergl.github.io/malditos_adjuntos.html)
 
