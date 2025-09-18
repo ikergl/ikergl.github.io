@@ -6,7 +6,7 @@
 
 [https://nohello.net/es/](https://nohello.net/es/)
 
-Lo pongo aquí sólo por hacer más completa la lista de "Productivitips".
+Lo pongo aquí sólo por hacer más completa mi lista de ["Productivitips"](https://ikergl.github.io/).
 
 <br>
 

@@ -1,6 +1,6 @@
 [¡Hola!](https://ikergl.github.io/hola.html)
 
-- **TI**
+- **Tech**
   - [La obsolescencia nos come](https://ikergl.github.io/obsolescencia.html)
   - [Simplificando pintar procesos](https://ikergl.github.io/procesos_simples.html)
 - **Productivitips**
