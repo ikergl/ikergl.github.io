@@ -8,6 +8,7 @@
 - Eres más triste que mover las pegatinas de un cubo de Rubik.
 
 😅
+
 No es que me ponga a pensarlas... es que eventualmente me pasan por la cabeza, al toparme con las "y" en la vida, y las apunto. Porque quiero 😎.
 
 <br>
