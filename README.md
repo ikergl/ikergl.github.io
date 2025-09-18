@@ -6,9 +6,11 @@
 - **Productivitips**
   - [Malditos adjuntos...](https://ikergl.github.io/malditos_adjuntos.html)
   - [No Hello](https://ikergl.github.io/no_hello.html)
+- **LOL**
+  - [Eres más x que y](https://ikergl.github.io/eres_más_x_que_y.html)
+  - [Pan rallado](https://ikergl.github.io/pan_rallado.html)
 - **Otros**
   - [D&D spells](https://ikergl.github.io/d&d_spells.html)
-  - [Pan rallado](https://ikergl.github.io/pan_rallado.html)
 
 <br>
 
