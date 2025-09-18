@@ -2,12 +2,13 @@
 
 # Eres más x que y
 
-No me pongo a pensar en nuevas, sólo apunto las que se me pasan eventualmente por la chaveta 😅
-
 - Eres más vintage que el icono de guardar.
 - Eres más inútil que lo verde del puerro.
 - Eres más desordenado que la carpeta de descargas.
 - Eres más triste que mover las pegatinas de un cubo de Rubik.
+
+😅
+No es que me ponga a pensarlas... es que eventualmente me pasan por la cabeza, al toparme con las "y" en la vida, y las apunto. Porque quiero 😎.
 
 <br>
 
