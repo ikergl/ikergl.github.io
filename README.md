@@ -9,7 +9,7 @@
 - **LOL** (o no)
   - [Pan rallado](https://ikergl.github.io/pan_rallado.html)
   - [Eres más x que y](https://ikergl.github.io/eres_más_x_que_y.html)
-- **Otros**
+- **Otrosss**
   - [D&D spells](https://ikergl.github.io/d&d_spells.html)
 
 <br>
