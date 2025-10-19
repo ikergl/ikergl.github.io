@@ -9,4 +9,4 @@
 ___
 Iker García Lafuente
 
-_Este contenido lo realizo siempre fuera de horario laboral. Comencé el 6 de septiembre de 2025._
+_Comencé a crear este contenido el 6 de septiembre de 2025, siempre fuera de horario laboral._
