@@ -11,4 +11,4 @@
 ___
 Iker García Lafuente
 
-_Comencé a crear este contenido el 6 de septiembre de 2025._
+_Web creada el 6 de septiembre de 2025._
